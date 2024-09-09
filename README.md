@@ -9,6 +9,6 @@ This dataset is a live dataset of Roseman Stores. On analsysing this problem we 
 
 In this project, I have attempted to analyze the retail sales dataset of Rossmann stores and build a predictive model to forecast the sales of any Rossmann store for any date. No personal information of customer is provided in this dataset.
 
-In this Notebook we work on following topics
+In this Notebook we work on following topics:
 
 Analysing the Dataset by using Exploratory Data Analysis. Using Exponential Moving Averages analyse Trends and Seasonality in Roseman dataset. Analyse Regression analysis using following prediction analysis, A. Linear Regression Analysis B. Elastic Regression ( Lasso and Ridge Regression). C. Random Forest Regression. d.Xgboost).
